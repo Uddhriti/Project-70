@@ -1,0 +1,62 @@
+#CampusLife{
+    
+    color: skyblue;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+
+#campus{
+    
+    padding-left: 100px;
+    padding-top: 100px;
+    width:600px;
+    height:375px;
+    
+}
+
+
+#principal{
+    
+    
+    padding-left: 500px;
+}
+#principal_name{
+    
+    
+    padding-left: 500px;
+}
+#mr_principal{
+    
+  padding-left: 500px;  
+    
+    
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    border-color: pink;
+    }
+html{
+    scroll-behavior: smooth;
+    }
+       
+#map iframe
+    {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+    }
+.navbar-header{
+    background-color: cyan;
+    width: 100%;
+}
+#School{
+    font-size: 25px;
+}
